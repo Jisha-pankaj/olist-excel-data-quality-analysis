@@ -22,13 +22,18 @@ An Excel project analyzing data quality in the Olist dataset, covering raw data 
 - Documented column-level details and business meaning
 - Noted early observations to guide data quality checks
 
-  ### Day 3 – Customers Raw Data & Data Overview
+### Day 3 – Customers Raw Data & Data Overview
 - Customer's raw dataset added to the repository
 - Performed initial data overview for the Customers dataset
 - Documented basic column-level understanding for further analysis
 
+## Day 4 – Order Items Raw Data Added & Overview Created
+- Order items raw dataset added
+- Order items data overview created in Excel
+  
 ## Planned Next Steps
 - Data quality checks (nulls, duplicates, validity, referential integrity)
 - Data issue documentation
 - Insights and summary
+
 
