@@ -30,10 +30,26 @@ An Excel project analyzing data quality in the Olist dataset, covering raw data 
 ## Day 4 – Order Items Raw Data Added & Overview Created
 - Order items raw dataset added
 - Order items data overview created in Excel
-  
-## Planned Next Steps
-- Data quality checks (nulls, duplicates, validity, referential integrity)
-- Data issue documentation
-- Insights and summary
+
+### Day 5 – Payments Data & Overview
+- Added payments raw dataset to the repository
+- Performed initial data exploration on payments data
+- Created a structured data overview
+
+### Day 6 – Data Quality Issues Identification (Orders & Customers)
+- Identified data quality issues in Orders and Customers datasets
+- Performed systematic checks for:
+  - Missing (null) values
+  - Duplicate records
+  - Invalid or inconsistent date formats
+  - Logical inconsistencies in timestamps
+  - Referential integrity issues
+- Documented all findings in structured data issue sheets for further analysis
+
+ ### Day 7 – Data Quality Insights & Summary
+- Consolidated data quality findings across Orders, Customers, Order Items, and Payments datasets
+- Summarized key data quality issues impacting analysis and reporting
+- Provided high-level recommendations for data cleaning and validation
+- Finalized Week 1 documentation and project structure
 
 
